@@ -1,0 +1,14 @@
+P:\Demo_Solution\Schleifen_Fakultät\bin\Debug\net8.0\Schleifen_Fakultät.exe
+P:\Demo_Solution\Schleifen_Fakultät\bin\Debug\net8.0\Schleifen_Fakultät.deps.json
+P:\Demo_Solution\Schleifen_Fakultät\bin\Debug\net8.0\Schleifen_Fakultät.runtimeconfig.json
+P:\Demo_Solution\Schleifen_Fakultät\bin\Debug\net8.0\Schleifen_Fakultät.dll
+P:\Demo_Solution\Schleifen_Fakultät\bin\Debug\net8.0\Schleifen_Fakultät.pdb
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.GeneratedMSBuildEditorConfig.editorconfig
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.AssemblyInfoInputs.cache
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.AssemblyInfo.cs
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.csproj.CoreCompileInputs.cache
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.dll
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\refint\Schleifen_Fakultät.dll
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.pdb
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\Schleifen_Fakultät.genruntimeconfig.cache
+P:\Demo_Solution\Schleifen_Fakultät\obj\Debug\net8.0\ref\Schleifen_Fakultät.dll

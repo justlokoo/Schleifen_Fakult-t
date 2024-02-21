@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Schleifen_Fakultät/1.0.0": {
+        "runtime": {
+          "Schleifen_Fakultät.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Schleifen_Fakultät/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
